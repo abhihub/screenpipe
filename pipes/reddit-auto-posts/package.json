@@ -17,7 +17,7 @@
     "@screenpipe/js": "1.0.9",
     "@types/lodash": "^4.17.13",
     "@types/nodemailer": "^6.4.17",
-    "ai": "^4.0.18",
+    "ai": "^5.0.52",
     "class-variance-authority": "^0.7.1",
     "cmdk": "0.2.1",
     "lodash": "^4.17.21",
