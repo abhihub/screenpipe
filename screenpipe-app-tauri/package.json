@@ -58,7 +58,7 @@
     "framer-motion": "^11.5.4",
     "hotkeys-js": "^3.13.9",
     "localforage": "^1.10.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lucide-react": "^0.414.0",
     "next": "15.1.4",
     "posthog-js": "^1.154.6",
