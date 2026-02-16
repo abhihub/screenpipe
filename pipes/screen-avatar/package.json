@@ -41,7 +41,7 @@
     "clsx": "^2.1.1",
     "cmdk": "1.0.4",
     "date-fns": "^4.1.0",
-    "elevenlabs": "^1.51.0",
+    "elevenlabs": "^1.59.0",
     "framer-motion": "^11.18.2",
     "install": "^0.13.0",
     "js-levenshtein": "^1.1.6",
